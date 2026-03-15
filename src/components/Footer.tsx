@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="navy-gradient py-16">
       <div className="container mx-auto px-6">
         <div className="flex flex-col items-center text-center">
-          <img src={logo} alt="Midlife & Meetings" className="h-16 mb-6" />
+          <img src={logo} alt="Midlife & Meetings" className="h-20 mb-6" />
 
           <div className="flex items-center gap-6 mb-8">
             <a href="#shop" className="font-body text-xs uppercase tracking-widest text-cream/60 hover:text-gold transition-colors">
