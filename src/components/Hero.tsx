@@ -20,7 +20,7 @@ const Hero = () => {
           <img
             src={logo}
             alt="Midlife & Meetings"
-            className="mx-auto mb-10 h-32 md:h-44"
+            className="mx-auto mb-10 h-44 md:h-64"
           />
 
           <motion.p
